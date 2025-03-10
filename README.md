@@ -1,7 +1,7 @@
 # deepseek_option_scan
 
-## 项目介绍
-`deepseek_option_scan.py` 是一个结合 Nmap 扫描与 DeepSeek AI 分析的网络安全工具。
+
+deepseek_option_scan.py` 是一个结合 Nmap 扫描与 DeepSeek AI 分析的网络安全工具。
 
 本工具仅供合法的网络安全研究、教学和评估用途。请勿在未经授权的系统上使用，任何非法使用本工具的行为，责任自负。
 
